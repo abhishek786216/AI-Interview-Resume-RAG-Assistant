@@ -1,3 +1,9 @@
+## Live demo
+
+Try the deployed application:
+
+https://ai-interview-rag-client.onrender.com/
+
 ## Verify document loading
 
 The loader uses LangChain's `Document` type and community loaders such as
